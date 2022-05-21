@@ -1,3 +1,3 @@
 ## ERP System for College
 
-Deployment link, click <a href="http://erpgroup.pythonanywhere.com/">here</a>
+Deployment link, [click here](http://erpgroup.pythonanywhere.com/)
